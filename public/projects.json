@@ -7,7 +7,7 @@
     },
     {
       "name": "Project 2: Beat Buddy",
-      "live": "https://app.netlify.app/whatever",
+      "live": "https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/",
       "git": "http://www.github.com/username/reponame",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
